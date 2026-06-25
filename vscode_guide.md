@@ -19,3 +19,6 @@ Para probar un proyecto de wokwi necesitaras un wokwi.toml
     elf = '.pio/build/esp32doit-devkit-v1/firmware.elf'
 
 Comando para buildear pio run
+
+Puedes ver ModestIOT template 1:
+https://wokwi.com/projects/467832317857764353
